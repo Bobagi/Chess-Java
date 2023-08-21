@@ -1,0 +1,5 @@
+O projeto foi exportado do NetBeans em .zip (Xafrez_MVC_V2) e se encontra na pasta deste mesmo arquivo TXT,
+basta importar o arquivo pelo NetBeans na opção "Importar -> De Zip.."
+
+The project was exported from NetBeans in .zip (Xafrez_MVC_V2) format, to run it just import the project, 
+in .zip format direct in NetBeans
