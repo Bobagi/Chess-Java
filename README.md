@@ -1,3 +1,3 @@
-# XadrexPOO (Java)
+# Chess (Java)
 Java Chess
-Made to run in NetBeans
+Made to run in NetBeans, for Object Oriented Programming classes 
